@@ -17,6 +17,8 @@
 		D4C7EC211F2599240094FF8A /* Foundation-Stub.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C7EC1F1F2599240094FF8A /* Foundation-Stub.swift */; };
 		D4C7EC241F2599320094FF8A /* Cocoa-Stub.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C7EC221F2599320094FF8A /* Cocoa-Stub.swift */; };
 		D4C7EC2B1F259F460094FF8A /* PulseButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C7EC2A1F259F460094FF8A /* PulseButton.swift */; };
+		D4C7EC2D1F25A1120094FF8A /* Test-Stub.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C7EC2C1F25A1120094FF8A /* Test-Stub.swift */; };
+		D4C7EC2E1F25A1120094FF8A /* Test-Stub.swift in Sources */ = {isa = PBXBuildFile; fileRef = D4C7EC2C1F25A1120094FF8A /* Test-Stub.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -52,6 +54,7 @@
 		D4C7EC1F1F2599240094FF8A /* Foundation-Stub.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Foundation-Stub.swift"; sourceTree = "<group>"; };
 		D4C7EC221F2599320094FF8A /* Cocoa-Stub.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Cocoa-Stub.swift"; sourceTree = "<group>"; };
 		D4C7EC2A1F259F460094FF8A /* PulseButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PulseButton.swift; sourceTree = "<group>"; };
+		D4C7EC2C1F25A1120094FF8A /* Test-Stub.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Test-Stub.swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -143,6 +146,7 @@
 		D4C7EBFF1F2598190094FF8A /* Tests */ = {
 			isa = PBXGroup;
 			children = (
+				D4C7EC2C1F25A1120094FF8A /* Test-Stub.swift */,
 			);
 			path = Tests;
 			sourceTree = "<group>";
@@ -398,6 +402,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4C7EBF51F2597F10094FF8A /* ProtoKit_iOSTests.swift in Sources */,
+				D4C7EC2D1F25A1120094FF8A /* Test-Stub.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -415,6 +420,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				D4C7EC161F2598D40094FF8A /* ProtoKit_macOSTests.swift in Sources */,
+				D4C7EC2E1F25A1120094FF8A /* Test-Stub.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
